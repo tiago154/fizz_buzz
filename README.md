@@ -1,5 +1,8 @@
 # FizzBuzz
 
+![Elixir CI](https://github.com/tiago154/fizz_buzz/workflows/Elixir%20CI/badge.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/tiago154/fizz_buzz/badge.svg?branch=master)](https://coveralls.io/github/tiago154/fizz_buzz?branch=master)
+
 ## 🧐 Descrição do Problema
 
 Solução desenvolvida em `Elixir` baseada no [Problema Fizzbuzz](http://dojopuzzles.com/problemas/exibe/fizzbuzz/)
